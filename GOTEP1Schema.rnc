@@ -1,0 +1,10 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start= Ep1
+Ep1= element Ep1 {title+| stageDirection+| direction+| char+}
+title= element title {text+}
+stageDirection= element stageDirection {text+}
+direction= element direction {text+}
+char= element char {text+, house}
+house= attribute house {"Stark"| "Lanister"| "Dondarrion"| "Tollett"|"Giantsbane"|"Umber"|"Tarly"|"Targaryen"|"Mormont"|"Baratheon"|"Clegane"|"Seaworth"|"Bolton"|"Greyjoy"|"Stokeworth"|"Strickland"|"Royce"}
+

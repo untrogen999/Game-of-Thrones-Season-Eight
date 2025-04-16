@@ -1,0 +1,33 @@
+Step File for G.O.T. markup
+ Note: I'm basing this step file off of a blank file! For episode three and four, mark up the speeches using the same Regex you would use to markup speeches when starting from a blank file! 
+ 
+Also, when doing this Regex, do it in the order listed! It will help you avoid mistakes. 
+
+**<direction> tags**
+Find: ^(CUT.+)(\n\n)
+Replace: <direction>\1</direction>\2
+
+Find: ^(INT.+)(\n\n)
+Replace: <direction>\1</direction>\2
+
+**<speaker> tags**
+Find: ^([A-Z]+.+):
+Replace: <speaker who="\1" house="">\1</speaker>
+
+For the house attributes: 
+Find: <speaker who="CHARACTER NAME HERE (all caps)" house="">
+Replace: <speaker who="CHAR. NAME IN ALL CAPS" house="House name goes here">
+
+**speech tags**
+Find: (<speaker.+)(\n\n)
+Replace: <speech>\1</speech>\2
+
+**<stageDirection> tags**
+Find: ^(\w.+)(\n\n)
+Replace: <stageDirection>\1</stageDirection>\2
+
+**There are a few instances where stage directions are denoted by parentheses, but the Regex was grabbing the wrong things for this, so for now I'd leave these or mark them by hand when you come across them!  
+
+Note: There isn't one great Regex that will catch every mention of a character, so you may need to go through and potentially do that by hand. You could search using this Regex ' \s[A-Z]+\s ' which will find any instance of a name in all caps with spaces before and after (which should hopefully avoid it capturing any of the speakers), and in the replace window put char tags around them. 
+
+I also left the  values for the house attributes blank, so you'll have to go through and fill those out! 

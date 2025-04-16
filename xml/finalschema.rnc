@@ -1,0 +1,12 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+
+start= Ep
+Ep= element Ep {mixed{(title | stageDirection | direction | speech | speaker)+}}
+title = element title {text}
+stageDirection= element stageDirection {text+}
+direction= element direction {text+}
+speech= element speech {speaker+,text+}
+speaker= element speaker {who, house?, text+}
+who= attribute who {"JON"|"SANSA"|"ARYA"|"BRAN"|"CERSEI"|"TYRION"|"THEON"|"YARA"|"EURON"|"JORAH"|"DAVOS"|"SAMWELL"|"VARYS"|"UMBER"|"BRONN"|"EDD"|"DAENERYS"|"MAESTER WOLKAN"|"WOLKAN"|"LYANNA"|"MAN"|"GENDRY"|"MAN 1"|"MAN 3"|"MAN 4"|"MAN 5"|"MAN 6"|"MAN 7"|"MAN 8"|"GENDRY"|"ROYCE"|"ARYA"|"QYBURN"|"HARRY"|"DIRAH"|"CRAYAH"|"MAREI"|"DOTHRAKI MAN #1"|"MAN 2"|"SANDOR"|"TORMUND"|"BERIC"|"NORTHMAN"|"NORTHMAN 1"|"NORTHMAN 2"|"SOLDIER"|"SOLDIER 1"|"SOLDIER 2"|"SOLDIER 3"|"SOLDIER 4"|"SOLDIER 5"|"SOLDIER 6"|"SOLDIER 7"|"MELISANDRE"|"GREY WORM"|"BRIENNE"|"SAM"|"WOMAN"|"WOMAN 1"|"WOMAN 2"|"JAIME"|"THE HOUND"|"MISSANDEI"|"ALL"|"BOTH"|"GILLY"|"TEELA"|"PODRICK"|"WILLA"|"SARRA"|"CAPTAIN"|"MARTHA"|"GUARD 1"|"GUARD 2"|"GUARD 3"|"UNSULLIED"|"FATHER"|"NORA"|"VICKY"|"LANNISTER SOLDIER"|"OWEN"|"EDMURE"|"YOHN ROYCE"|"RIVERLANDS LORD"|"ROBIN"|"DORNISH PRINCE"|"IRONBORN LORD"|"VALE LORD"|"UNSULLIED CAPTAIN"}
+house= attribute house {"Stark"| "Lannister"| "Dondarrion"| "Tollett"|"Giantsbane"|"Umber"|"Tarly"|"Targaryen"|"Mormont"|"Baratheon"|"Clegane"|"Seaworth"|"Bolton"|"Greyjoy"|"Stokeworth"|"Strickland"|"Royce"|"Tarth"|"Craster"|"Payne"|"Tully"|"Arryn"}

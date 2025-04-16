@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="finalschema.rnc" type="application/relax-ng-compact-syntax"?>
+<Ep>
+<title>EPISODE 2 - A KNIGHT OF THE SEVEN KINGDOMS</title>
+
+<stageDirection>TITLE SEQUENCE</stageDirection>
+<direction>INT. WINTERFELL - DAY</direction>
+<direction>CUT TO: WINTERFELL – GREAT HALL</direction>
+
+<stageDirection>JAIME LANNISTER stands in the Great Hall of Winterfell.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS TARGARYEN</speaker> When I was a child, my brother would tell me a bedtime story about the man who murdered our father.</speech>
+
+<stageDirection>The camera cuts to a wide view of the hall and we see a multitude of guards placed around the room and the many who ally with House Stark. Sitting at the head of the room is DAENERYS in the centre of a long table; JON SNOW sits on her left and SANSA STARK on her right and JAIME is standing in the middle of the room facing DAENERYS. On the left of the room there is a shorter table where TYRION LANNISTER, LORD VARYS, MISSANDEI and JORAH MORMONT sit. On the right there is another table where DAVOS SEAWORTH, LYANNA MORMONT, LORD YOHN ROYCE, ALYS KARSTARK and BRIENNE OF TARTH sit</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Who stabbed him in the back and cut his throat. Who sat down on the Iron Throne and watched as his blood poured onto the floor.</speech>
+
+<stageDirection>JAIME’s eyes lowered.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> He told me other stories as well. About all the things we would do to that man once we took back the Seven Kingdoms and had him in our grasp.</speech>
+
+<stageDirection>She pauses.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Your sister pledged to send her army north.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> She did.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I don't see an army. I see one man, with one hand. It appears your sister lied to me.</speech>
+
+<stageDirection>TYRION looks up at his brother and JAIME looks back.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> She lied to me as well. She never had any intention of sending her army north.</speech>
+
+<stageDirection>DAENERYS turned her glare towards TYRION.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> She has Euron Greyjoy's fleet and 20,000 fresh troops. The Golden Company from Essos, bought and paid for. Even if we defeat the dead, she'll have more than enough to destroy the survivors.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> "We"?</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> I promised to fight for the living. I intend to keep that promise.</speech>
+
+<stageDirection>TYRION steps forwards towards DAENERYS.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Your Grace, I know my brother-</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Like you knew your sister?</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> He came here alone, knowing full well how he'd be received. Why would he do that if he weren't telling the truth?</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Perhaps he trusts his little brother to defend him, right up to the moment he slits my throat.</speech>
+
+<stageDirection>TYRION looks to JON and SANSA.</stageDirection>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> You're right. We can't trust him. He attacked my father in the streets. He tried to destroy my house and my family, the same as he did yours.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Do you want me to apologize? I won't. We were at war. Everything I did, I did for my house and my family. I'd do it all again.</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> The things we do for love.</speech>
+
+<stageDirection>DAENERYS, SANSA and JON all turn slowly to look at BRAN who sits to the side of SANSA. JAIME looks at him and BRAN maintains eye-contact.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> So why have you abandoned your house and family now?</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Because this goes beyond loyalty.</speech>
+
+<stageDirection>He looks around to see BRIENNE, then turns back.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> This is about survival.</speech>
+
+<stageDirection>TYRION turns to look at DAENERYS. BRIENNE then stands up.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> You don't know me well, Your Grace.</speech>
+
+<stageDirection>She walks from behind her table to stand in the middle of the Hall beside JAIME.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> But I know Ser Jaime. He is a man of honor. I was his captor once. But when we were both taken prisoner and the men holding us tried to force themselves on me, Ser Jaime defended me. And lost his hand because of it.</speech>
+
+<stageDirection>She then addresses SANSA.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> Without him, my lady, you would not be alive. He armed me, armored me, and sent me to find you and bring you home because he'd sworn an oath to your mother.</speech>
+
+<stageDirection>SANSA looks down and then back up at BRIENNE.</stageDirection>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> You vouch for him?</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> I do.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> You would fight beside him?</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> I would.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> I trust you with my life. If you trust him with yours, we should let him stay.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> What does the Warden of the North say about it?</speech>
+
+<stageDirection>She turns to JON who sighs.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> We need every man we can get.</speech>
+
+<stageDirection>The room falls silent as DAENERYS thinks to herself.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Very well.</speech>
+
+<stageDirection>TYRION exhales sharply in relief. GREY WORM picks up JAIME’s sword, walks over to him, handing it over aggressively.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Thank you, Your Grace.</speech>
+
+<stageDirection>DAENERYS stands up and the rest of the room does as she does. SANSA exits. DAENERYS turns to JON who exits after his sister. DAENERYS then exits followed by TYRION, VARYS, JORAH and MISSANDEI. JAIME then catches BRIENNE’s eye as she leaves and then he ends up looking at BRAN again who mimics his stare.</stageDirection>
+
+<direction>CUT TO: WINTERFELL – HALLWAY</direction>
+
+<stageDirection>DAENERYS walks along the hallway outside the hall followed by TYRION, VARYS and JORAH.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Either you knew Cersei was lying and let me believe otherwise, or you didn't know at all. Which makes you either a traitor or a fool.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I was a fool.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Not for the first time.</speech>
+
+<stageDirection>DAENERYS stops walking and turns to TYRION.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Cersei still sits on the throne. If you can't help me take it back, I'll find another Hand who can.</speech>
+
+<stageDirection>DAENERYS exits. TYRION turns to VARYS and JORAH.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I suspect one of you will be wearing this before it's all over.</speech>
+
+<direction>CUT TO: WINTERFELL - FORGES</direction>
+
+<stageDirection>Men chatter indistinctly as they forge the weapons. GENDRY walks into frame, dumping dragonglass out of a bucket. He then walks up to furnace and pulls out some dragonglass, moulding it and then dousing it in a bucket of water. ARYA STARK walks towards him. As the steam rises from the bucket she catches his eye.</stageDirection>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Don't you have something better to do?</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> You make my weapon yet?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Just as soon as I'm done making a few thousand of these.</speech>
+
+<stageDirection>GENDRY hands her a small axe with a blade made of dragonglass.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> You should make mine first. And make sure it's stronger than this.</speech>
+
+<stageDirection>GENDRY grabs the axe and brings it down harshly on a wooden stump.</stageDirection>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> It's strong enough.</speech>
+
+<stageDirection>GENDRY moves to a pile of dragonglass spearheads and checks on it, ARYA follows.</stageDirection>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> It's going to be safer down in the crypt, you know.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Are you going to be down in the crypt?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> No, but-</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> But you're a fighter.</speech>
+
+<stageDirection>He glances up at her.</stageDirection>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I've done my share.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> You've fought them?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I did. Some of them.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> How many?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> A few. That was enough.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> What are they like?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Bad. Really bad.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> "Really bad"?</speech>
+
+<stageDirection>She walks behind him and around the other side of the table so she is facing him.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Even a smith's apprentice can do better than "really bad." What do they look like? What do they smell like? How do they move? How hard are they to kill?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Look, I know you want to fight. And I know you're not scared of rapers or murderers or-This is different. This is-this is death. You want to know what they're like? Death. That's what they're like.</speech>
+
+<stageDirection>ARYA picks up one of the spearheads, turning it in her hand.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> I know Death.</speech>
+
+<stageDirection>She throws the spearhead, narrowly missing a blacksmith’s head. GENDRY exhales, staring in disbelief at the dragonglass impaled on the wooden beam.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> He's got many faces.</speech>
+
+<stageDirection>She tosses another landing next to the first. The blacksmith quickly runs away. GENDRY slowly turns back to ARYA who picks up a third spearhead.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> I look forward to seeing this one.</speech>
+
+<stageDirection>She throws it and it lands with the first two. GENDRY chuckles to himself and ARYA walks back round the table and past GENDRY.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> My weapon?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I'll get right on it.</speech>
+
+<stageDirection>ARYA walks off as GENDRY watches. He smirks to himself.</stageDirection>
+
+<direction>CUT TO: WINTERFELL - GODSWOOD</direction>
+
+<stageDirection>The camera pans from behind a tree to show BRAN sitting in his wheelchair facing the weirwood tree. JAIME walks towards him. He stops a couple feet from him and looks down.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> I'm sorry for what I did to you.</speech>
+
+<stageDirection>BRAN turns his head towards JAIME.</stageDirection>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> You weren't sorry then. You were protecting your family.</speech>
+
+<stageDirection>JAIME walks around in front of BRAN.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> I'm not that person anymore.</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> You still would be, if you hadn't pushed me out of that window. And I would still be Brandon Stark.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> You're not?</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> No. I'm something else now.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> You're not angry at me.</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> I'm not angry at anyone.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Why didn't you tell them?</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> You won't be able to help us in this fight if I let them murder you first.</speech>
+
+<stageDirection>JAIME nods and raises an eyebrow.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> What about afterwards?</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> How do you know there is an afterwards?</speech>
+
+<stageDirection>JAIME stares at BRAN.</stageDirection>
+
+<direction>CUT TO: WINTERFELL - COURTYARD</direction>
+
+<stageDirection>All of the Northerners are busy building defenses in preparation for the army of the dead as TYRION walks past. JAIME approaches him.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Well, here we are.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Yes, here we are.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Together again.</speech>
+
+<stageDirection>A man standing above them clears his throat and then spits on the floor beside them.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> And the masses rejoice.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> How do they feel about their new queen?</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> She's your new queen too.</speech>
+
+<stageDirection>They start walking together.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> They remember what happened the last time Targaryens brought dragons north. They'll come around once they see Daenerys is different.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> And she is? Different?</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> She is.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> You're sure about her?</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I am.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> She didn't seem sure about you.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> It's hard to blame her. I made a mistake common to clever people. I underestimated my opponents.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Hmm.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Cersei told me the pregnancy had changed her. A chance for you both to start again. And I believed her.</speech>
+
+<stageDirection>They stop walking and TYRION turns to look up at JAIME.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Was she lying about the baby too?</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> No, that part is real.</speech>
+
+<stageDirection>TYRION thinks to himself and they both start walking again.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> She's always been good at using the truth to tell lies. I wouldn't be too hard on yourself. She's fooled me more than anybody.</speech>
+
+<stageDirection>They start to walk up a staircase and TYRION turns to look at JAIME.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> What?</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> She never fooled you. You always knew exactly what she was, and you loved her anyway.</speech>
+
+<stageDirection>TYRION walks ahead as JAIME remains in the same spot. After a couple seconds, he follows. They both walk along the walls of castle looking over the courtyard.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> So we're going to die at Winterfell. Not the death I would've chosen. I always pictured myself dying in my own bed, the age of 80, with a belly full of wine and-</speech>
+
+<speech><speaker who="BOTH" >BOTH</speaker> A girl's mouth around-</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Your cock.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> My cock.</speech>
+
+<stageDirection>TYRION smiles up at JAIME.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> At least Cersei won't get to murder me. I'm sure I'll feel some satisfaction denying her that pleasure while I'm being ripped apart by dead men.</speech>
+
+<stageDirection>JAIME notices something whilst TYRION continues to talk and walks off.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Maybe after I'm dead I'll march down to King's Landing and rip her apart.</speech>
+
+<stageDirection>TYRION glances up where JAIME was and notices he is gone, he looks behind to see JAIME looking over the wall. The camera cuts to show BRIENNE walking outside the walls among the Unsullied.</stageDirection>
+
+<direction>CUT TO: WINTERFELL – OUTSIDE FRONT GATE</direction>
+
+<stageDirection>GREY WORM is seen testing out the traps around the castle as other Unsullied and Northerners work around him. JAIME walks out the front gate. We see PODRICK PAYNE training with a soldier as BRIENNE watches on, smiling proudly. JAIME stands next to her and she glances at him.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> Ser Jaime.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Lady Brienne.</speech>
+
+<stageDirection>PODRICK blocks the soldier and pushes him back, bettering him. They continue to fight with their swords.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> He's come a long way.</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> He's alright. Still has a lot to learn.</speech>
+
+<stageDirection>BRIENNE starts walking away and JAIME follows.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> I'm sure you'll teach him. I've been told you're commanding the left flank.</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> I am. It's, uh-it's good ground.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> It is.</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> The rise, it should give us some advantage.</speech>
+
+<stageDirection>They stop walking.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> If we can keep a tight formation, we might be able to beat them back.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Yes, I think you're right.</speech>
+
+<stageDirection>BRIENNE quickly turns to face JAIME.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> What are you doing?</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> What?</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> I think you know.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> I truly don't.</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> We have never had a conversation last this long without you insulting me. Not once.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> You want me to insult you?</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> No!</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Good.</speech>
+
+<stageDirection>He pauses.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> I came to Winterfell because-I'm not the fighter I used to be. But I'd be honored to serve under your command, if you'll have me.</speech>
+
+<stageDirection>BRIENNE goes silent and looks down briefly. She returns his gaze.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> I better get back.</speech>
+
+<stageDirection>BRIENNE walks off, leaving JAIME standing alone.</stageDirection>
+
+<direction>CUT TO: WINTERFELL - DAENERYS’ QUARTERS</direction>
+
+<stageDirection>DAENERYS’ door opens and JORAH walks in.</stageDirection>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> Forgive me, khaleesi.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Have you done something to offend me?</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> Many things.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Long ago and long forgiven.</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> But you did forgive, despite my failures. When I heard you'd named Tyrion your Hand, it broke my heart.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> When I named him Hand, I didn't know if I'd ever see you again.</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> You made the right choice.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I wasn't under the impression you liked him very much.</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> I didn't. His mouth hardly stopped moving between Volantis and Meereen. It was all I could do not to throw him in the sea.</speech>
+
+<stageDirection>JORAH chuckles.</stageDirection>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> But the mind behind all those words-</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> He's made mistakes. Serious mistakes.</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> As have we all. He owns his and learns from them.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> You're advising me to forgive the man who stole your position?</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> I am. And one other suggestion, if you'll allow me.</speech>
+
+<direction>CUT TO: WINTERFELL - LIBRARY</direction>
+
+<stageDirection>DAENERYS walks into the library.</stageDirection>
+
+<speech><speaker who="ROYCE" house="Royce">ROYCE</speaker> The moment we can get the last infantryman out onto the field, we should shut the gates.</speech>
+
+<stageDirection>The camera pans to show ROYCE and SANSA sitting at a table together.</stageDirection>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Keep them open for as long as you can. There are still people coming in from the countryside.</speech>
+
+<stageDirection>They both notice DAENERYS’ presence and stand up.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Lady Sansa, I was hoping we could speak alone.</speech>
+
+<stageDirection>ROYCE looks at SANSA who nods, granting him leave. ROYCE walks towards DAENERYS, bows and then exits. DAENERYS turns to watch him leave before turning back.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I thought you and I were on the verge of agreement before. About Ser Jaime.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Brienne has been loyal to me, always. I trust her more than anyone.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I wish I could have that kind of faith in my advisors.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Tyrion is a good man. He was never anything but decent towards me.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I didn't ask him to be my Hand simply because he was good.</speech>
+
+<stageDirection>She starts walking towards SANSA.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I asked him to be my Hand because he was good, and intelligent, and ruthless when he had to be. He never should have trusted Cersei.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> You never should have either.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I thought he knew his sister.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Families are complicated.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Ours certainly have been.</speech>
+
+<stageDirection>They both sit down in the seats SANSA and ROYCE were previously occupying.</stageDirection>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> A sad thing to have in common.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> We have other things in common. We've both known what it means to lead people who aren't inclined to accept a woman's rule. And we've both done a damn good job of it, from what I can tell.</speech>
+
+<stageDirection>SANSA returns her uneasy smile.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> And yet, I can't help but feel we're at odds with one another. Why is that? Your brother.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> He loves you, you know that.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> That bothers you.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Men do stupid things for women. They're easily manipulated.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS: All my life, I've known one goal</speaker> the Iron Throne. Taking it back from the people who destroyed my family, and almost destroyed yours. My war was against them. Until I met Jon. Now I'm here, half a world away, fighting Jon's war alongside him. Tell me, who manipulated whom?</speech>
+
+<stageDirection>SANSA scoffs; she then leans forward and places her hand on DAENERYS’ hand.</stageDirection>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> I should have thanked you the moment you arrived. That was a mistake.</speech>
+
+<stageDirection>DAENERYS places her other hand on top of SANSA’s.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I'm here because I love your brother and I trust him, and I know he's true to his word. He's only the second man in my life I can say that about.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Who was the first?</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Someone taller.</speech>
+
+<stageDirection>They both chuckle with one another.</stageDirection>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> And what happens afterwards? We defeat the dead, we destroy Cersei. What happens then?</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I take the Iron Throne.</speech>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> What about the North? It was taken from us, and we took it back. And we said we'd never bow to anyone else again. What about the North?</speech>
+
+<stageDirection>DAENERYS removes her hand and looks away from SANSA. MAESTER WOLKAN enters the library.</stageDirection>
+
+<speech><speaker who="WOLKAN" >WOLKAN</speaker> Apologies, my lady. Your Grace.</speech>
+
+<stageDirection>DAENERYS turns in her seat, agitated.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> What is it?</speech>
+
+<direction>CUT TO: WINTERFELL – GREAT HALL</direction>
+
+<stageDirection>WOLKAN leads DAENERYS and SANSA into the great hall, where we see THEON GREYJOY standing in the centre of the hall surrounded by many of the Ironborn. DAENERYS looks shocked, THEON walks up to her and bends his knee.</stageDirection>
+
+<speech><speaker who="THEON" house="Greyjoy">THEON</speaker> My queen.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Your sister?</speech>
+
+<speech><speaker who="THEON" house="Greyjoy">THEON</speaker> She only has a few ships, and she couldn't sail them here. So, she's sailing to the Iron Islands instead, to take them back in your name.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> But why aren't you with her?</speech>
+
+<stageDirection>THEON looks at SANSA.</stageDirection>
+
+<speech><speaker who="THEON" house="Greyjoy">THEON</speaker> I want to fight for Winterfell, Lady Sansa, if you'll have me.</speech>
+
+<stageDirection>SANSA walks up to THEON quickly and hugs him tightly. THEON hugs back.</stageDirection>
+
+<direction>CUT TO: WINTERFELL – COURTYARD</direction>
+
+<stageDirection>Many Northerners wait in line to be served food. DAVOS is filling the bowls.</stageDirection>
+
+<speech><speaker who="MAN" >MAN</speaker> Milord, we're not soldiers.</speech>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> You are now. Look, I made it through most of my years without ever getting near a fight, but then I survived the Battle of the Bastards. Right outside these walls. If I can live through that, you can live through this. They'll outfit you with weapons at the forge. Right that way.</speech>
+
+<speech><speaker who="MAN" >MAN</speaker> Thank you.</speech>
+
+<stageDirection>He nods towards DAVOS and walks off with his bowl.</stageDirection>
+
+<speech><speaker who="GILLY" house="Craster">GILLY</speaker> When the time comes, you'll be down in the crypts.</speech>
+
+<stageDirection>The camera pans to show GILLY leading a young woman and an older couple, showing them where they will stay during the battle.</stageDirection>
+
+<speech><speaker who="GILLY" house="Craster">GILLY</speaker> They're the safest place to be. Through that archway right over there.</speech>
+
+<speech><speaker who="WOMAN" >WOMAN</speaker> Thank you.</speech>
+
+<stageDirection>TEELA, a young girl, walks up to where the food is being served and holds her bowl up. DAVOS has his back turned.</stageDirection>
+
+<speech><speaker who="TEELA" >TEELA</speaker> Which way should I go?</speech>
+
+<stageDirection>DAVOS turns back around and looks at her.</stageDirection>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> Which way do you want to go?</speech>
+
+<speech><speaker who="TEELA" >TEELA</speaker> All the children will be going below when the time comes.</speech>
+
+<stageDirection>GILLY overhears the conversation and starts to walk over.</stageDirection>
+
+<speech><speaker who="TEELA" >TEELA</speaker> But both me brothers were soldiers. I want to fight too.</speech>
+
+<stageDirection>DAVOS takes her bowl and fills it up as GILLY sits down next to her.</stageDirection>
+
+<speech><speaker who="GILLY" house="Craster">GILLY</speaker> That's good to hear. I'm going to be in the crypt with my son, and I'd feel a lot better with you down there to protect us.</speech>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> I'm sure a lot of people would.</speech>
+
+<stageDirection>He hands her bowl back to her.</stageDirection>
+
+<speech><speaker who="TEELA" >TEELA</speaker> All right. I'll defend the crypt, then.</speech>
+
+<stageDirection>TEELA walks off and DAVOS smiles at GILLY. A horn is then blared and the gates are opened as the remaining members of the nights watch return with TORMUND GIANTSBANE and BERIC DONDARRION. SAMWELL TARLY greets DOLOROUS EDD who has just returned. JON sees them and quickly heads over. Before he can embrace EDD, TORMUND hugs him first.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> My little crow.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> I thought we'd lost you.</speech>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> Almost.</speech>
+
+<stageDirection>JON turns to hug EDD. He then turn to BERIC and shakes his hand.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> How did you find each other?</speech>
+
+<speech><speaker who="EDD" house="Tollett">EDD</speaker> We met up at the Last Hearth.</speech>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> The dead got there first.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> The Umbers?</speech>
+
+<speech><speaker who="BERIC" house="Dondarrion">BERIC</speaker> Fighting for the Night King now.</speech>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> We had to travel around them to get here. Whoever's not here now is with them.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> How long do we have?</speech>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> Before the sun comes up tomorrow.</speech>
+
+<stageDirection>JON looks at SAMWELL with a concerned look. TORMUND looks back over his shoulder, surveying his surroundings.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> The big woman still here?</speech>
+
+<direction>EXT. WINTERFELL - DAY</direction>
+<direction>CUT TO: WINTERFELL – OUTSIDE THE WALLS</direction>
+
+<stageDirection>Northern soldiers jog around the walls of Winterfell</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> They're coming.</speech>
+
+<direction>CUT TO: WINTERFELL - COURTYARD</direction>
+
+<stageDirection>Men are removing dragonglass weapons from carriages and handing to soldier. The camera pans and GENDRY lifts a dragonglass axe up and hands it to a man.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> We have dragonglass and Valyrian steel.</speech>
+
+<direction>CUT TO: WINTERFELL – OUTSIDE FRONT GATE</direction>
+
+<stageDirection>The Unsullied pull ropes, causing a large boulder to be thrown into the air by a large trebuchet. More soldiers march out of the gates of Winterfell.</stageDirection>
+
+<speech><speaker who="JON" house="Stark"></speaker> But there are too many of them.</speech>
+
+<direction>CUT TO: WINTERFELL – BATTLEMENTS</direction>
+
+<stageDirection>Archers walk up to the edge of the battlements with their bow and arrows. We see a man stretch the bow string</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> Far too many.</speech>
+
+<stageDirection>A horse neighs and the man looks up over the wall.</stageDirection>
+
+<direction>CUT TO: WINTERFELL – FRONT GATE</direction>
+
+<stageDirection>The Dothraki ride along the outside of the wall as the camera pans past the trench of spikes used to defend from the Army of the Dead.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> Our enemy doesn't tire.</speech>
+
+<stageDirection>The camera moves farther down until it reaches a gap in the trench outside the gate, the Dothraki ride through the center as Unsullied soldiers emerge from the gate.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> Doesn't stop. Doesn't feel.</speech>
+
+<direction>CUT TO: WINTERFELL - LIBRARY</direction>
+
+<stageDirection>In the library, a large table has a map of Winterfell laid out over it, with various markers placed outside the castle. The Unsullied are organized in three groups in the middle outside the front of the. To either side of the Unsullied are markers representing the Northerners and in front are the Dothraki. Facing towards all these troops are markers representing the Army of the Dead, these markers far outnumber the allies of Winterfell. Standing around the table (clockwise) is SANSA, JON, ARYA, SAMWELL, THEON, ALYS, BRIENNE, JAIME, BERIC, TORMUND, DAVOS, LYANNA, ROYCE, QHONO, GREY WORM, VARYS, DAENERYS, JORAH and TYRION. BRAN is seated behind JON.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> We can't beat them in a straight fight.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> So, what can we do?</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> The Night King made them all. They follow his command. If he falls Getting to him may be our best chance.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> If that's true, he'll never expose himself.</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> Yes, he will.</speech>
+
+<stageDirection>Everyone in the room turns to look at Bran.</stageDirection>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> He'll come for me. He's tried before, many times, with many Three-Eyed Ravens.</speech>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Why? What does he want?</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> An endless night. He wants to erase this world, and I am its memory.</speech>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> That's what death is, isn't it? Forgetting. Being forgotten. If we forget where we've been and what we've done, we're not men anymore. Just animals. Your memories don't come from books. Your stories aren't just stories. If I wanted to erase the world of men, I'd start with you.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> How will he find you?</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> His mark is on me.</speech>
+
+<stageDirection>BRAN lifts the cuff of his right arm, revealing a red mark in the shape of a hand.</stageDirection>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> He always knows where I am.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> We'll put you in the crypt, where it's safest.</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> No. We need to lure him into the open before his army destroys us all. I'll wait for him in the Godswood.</speech>
+
+<stageDirection>The camera pans over the map of Winterfell, to the East but still within the walls, is the Godswood.</stageDirection>
+
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> You want us to use you as bait?</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> We're not leaving you alone out there.</speech>
+
+<speech><speaker who="THEON" house="Greyjoy">THEON</speaker> He won't be. I'll stay with him. With the Ironborn. I took this castle from you. Let me defend you now.</speech>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> We'll hold off the rest of them for as long as we can.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> When the time comes, Ser Davos and I will be on the walls, to give you the signal to light the trench.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Ser Davos is perfectly capable of waving a torch on his own. You'll be in the crypt.</speech>
+
+<stageDirection>TYRION looks shocked and turns to her.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Your Grace, I have fought before, I can do it again. Alongside the men and women risking their lives.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> There are thousands of them and only one of you. You can't fight as well as they can, but you can think better than any of them. You're here because of your mind. If we survive, I'll need it.</speech>
+
+<stageDirection>TYRION nods.</stageDirection>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> The dragons should give us an edge in the field.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> If they're in the field, they're not protecting Bran. We need to be near him. Not too near, or the Night King won't come. But close enough to pursue him when he does.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Dragonfire will stop him?</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> I don't know. No one's ever tried.</speech>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> We're all going to die.</speech>
+
+<stageDirection>He turns to look at BRIENNE.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> But at least we die together.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> Let's get some rest.</speech>
+
+<stageDirection>Everyone begins to leave the library as JON and DAENERYS remain at the table.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> Your Grace.</speech>
+
+<stageDirection>JON then exits along with almost everyone else. Only TYRION and BRAN remain.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Do you need help?</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> No.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> You've had a strange journey.</speech>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> Stranger than most.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I'd like to hear about it.</speech>
+
+<stageDirection>TYRION grabs a wooden chair and drags it over next to BRAN.</stageDirection>
+
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> It's a long story.</speech>
+
+<stageDirection>TYRION sits in the chair.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> If only we were trapped in a castle, in the middle of winter, with nowhere to go.</speech>
+
+<direction>CUT TO: WINTERFELL - COURTYARD</direction>
+
+<stageDirection>Unsullied soldiers clean their weapons as GREY WORM walks past. MISSANDEI walks into the courtyard and sees two young girls.</stageDirection>
+
+<speech><speaker who="MISSANDEI" house="Targaryen">MISSANDEI</speaker> Hello.</speech>
+
+<stageDirection>The girls quickly grab one another’s hands and run off. GREY WORM stands behind her as she turns around to face him. GREY WORM walks up to her.</stageDirection>
+
+<speech><speaker who="GREY WORM">GREY WORM</speaker> When Daenerys takes her throne there will be no place for us here. I am loyal to my queen. I will fight for her until her enemies are defeated, but when the war is over and she has won, do you want to grow old in this place? Is there nothing else you want to do, nothing else you want to see?</speech>
+
+<speech><speaker who="MISSANDEI" house="Targaryen">MISSANDEI</speaker> Naath. I'd like to see the beaches again.</speech>
+
+<speech><speaker who="GREY WORM">GREY WORM</speaker> Then I will take you there.</speech>
+
+<speech><speaker who="MISSANDEI" house="Targaryen">MISSANDEI</speaker> My people are peaceful. We cannot protect ourselves.</speech>
+
+<speech><speaker who="GREY WORM">GREY WORM</speaker> My people are not peaceful. We will protect you.</speech>
+
+<direction>EXT. WINTERFELL - NIGHT</direction>
+<direction>CUT TO: WINTERFELL - BATTLEMENTS</direction>
+
+<stageDirection>The camera pans up over the wall and SAMWELL and JON stand next to each other with GHOST, JON’s direwolf, behind them. SAMWELL leans over slightly towards JON.</stageDirection>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Have you told her yet?</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> No.</speech>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Mm-hmm. Being careful. Biding your time. Waiting for the perfect-</speech>
+
+<stageDirection>He pauses and they both look at each other and fall silent. EDD walks up the stair behind them and stands between them.</stageDirection>
+
+<speech><speaker who="EDD" house="Tollett">EDD</speaker> And now our watch begins.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> Gilly? Little Sam?</speech>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> They'll be safe down in the crypt.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> If you want to join them.</speech>
+
+<stageDirection>SAMWELL looks at him and frowns.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> To protect them.</speech>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Everyone seems to forget that I was the first man to kill a White Walker. I've killed Thenns.</speech>
+
+<speech><speaker who="EDD" house="Tollett">EDD</speaker> Thenn.</speech>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> I've saved Gilly more than once. I stole a considerable number of books from the Citadel library, survived the Fist of the First Men. You need me out there.</speech>
+
+<speech><speaker who="EDD" house="Tollett">EDD</speaker> Well, if that's what it's come to, we really are fucked.</speech>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Well, calling you "fucked" wouldn't be strictly accurate.</speech>
+
+<stageDirection>SAMWELL chuckles and EDD looks at him. He turns to see JON laughing too.</stageDirection>
+
+<speech><speaker who="EDD" house="Tollett">EDD</speaker> Samwell Tarly. Slayer of White Walkers. Lover of Ladies. As if we needed any more signs the world was ending.</speech>
+
+<stageDirection>SAMWELL sighs.</stageDirection>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Think back to where we started. Us, Grenn, Pyp.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> Now it's just us three.</speech>
+
+<speech><speaker who="EDD" house="Tollett">EDD</speaker> Last man left, burn the rest of us.</speech>
+
+<stageDirection>The camera rises over the wall and the silhouette of the trees in the distance block the light slowly fading over the horizon.</stageDirection>
+
+<direction>CUT TO: WINTERFELL – GREAT HALL</direction>
+
+<stageDirection>The fire in the hearth of the hall is lit. Two wooden chairs sit facing it, occupied by JAIME to the left of the fire and TYRION to the right. They both sip on wine.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I wish Father were here.</speech>
+
+<stageDirection>JAIME looks at TYRION in shock.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I would love to see the look on his face when he realizes his two sons are about to die defending Winterfell.</speech>
+
+<stageDirection>JAIME snorts.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> That would be something to see.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I remember the first time we were here, the first time I saw this hall.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Mm.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> You were a golden lion. I was a drunken whore-monger. It was all so simple.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> It wasn't so simple. I was sleeping with my sister and you had one friend in the world who was sleeping with his sister.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I was speaking in relative terms.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Do you miss it?</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Of course I miss it.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Well, my golden lion days are done, but whore-mongering is still an option for you.</speech>
+
+<stageDirection>TYRION sighs</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> It's not. Things would be easier if it were.</speech>
+
+<stageDirection>TYRION raises his cup to toast.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> The perils of self-betterment.</speech>
+
+<stageDirection>JAIME raises his and they both go to drink. JAIME stops himself when the door to the hall opens and BRIENNE and PODRICK walk in. JAIME stands up quickly and they both turn to look at the visitors.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Oh! My lady.</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> Oh, we didn't mean to interrupt. We were just looking for somewhere warm to-</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> To contemplate your imminent death. You've come to the right place. You want some of this piss? It's not bad. It's not good either.</speech>
+
+<stageDirection>TYRION walks over to where the wine is kept, PODRICK starts to walk to him.</stageDirection>
+
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> Thank you, milord.</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> I don't think that's wise.</speech>
+
+<stageDirection>PODRICK turns back to BRIENNE.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> The battle might start at any moment.</speech>
+
+<stageDirection>She pauses.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> Half cup.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> And you?</speech>
+
+<stageDirection>TYRION continues to pour PODRICK’s drink until the cup overflows with wine.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> No, thank you. I should try and get some sleep.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> You really think any of us are going to sleep tonight? Join us.</speech>
+
+<stageDirection>JAIME places another chair in front of the fire.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> All right. Just a bit.</speech>
+
+<stageDirection>TYRION pours BRIENNE a drink and hands it to her as she sits down. PODRICK grabs a chair and brings it over and sits down. DAVOS and TORMUND enter the hall.</stageDirection>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> Well, what do we have here?</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Ser Davos, join us.</speech>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> No, not for me, thanks. Came here for this.</speech>
+
+<stageDirection>DAVOS stands in front of the fire to warm up.</stageDirection>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> I figured I could wait to die freezing my balls off out there or wait to die nice and warm in here.</speech>
+
+<stageDirection>TORMUND walks up to BRIENNE and stands in front of her.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> It could be our last night in this world, you know.</speech>
+
+<stageDirection>JAIME, now sitting down next to BRIENNE, glances up.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> Yes, well, I'm glad you're here.</speech>
+
+<stageDirection>She pauses and quickly tries to recover.</stageDirection>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> Here fighting with us. Glad you survived Eastwatch.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Would you like a drink?</speech>
+
+<stageDirection>TORMUND turns to TYRION and raises his drinking horn.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> Brought my own.</speech>
+
+<stageDirection>TORMUND looks at JAIME, over to BRIENNE, and then back to JAIME again.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> They call you "King Killer."</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> I'm sure someone does.</speech>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> They call me "Giantsbane." Want to know why?</speech>
+
+<stageDirection>JAIME sighs and looks over at TYRION who is still standing to the side of the room with his wine. TORMUND grabs a wooden chair and places it with his back to the fire so that he is facing JAIME and BRIENNE. He sits down and leans forwards.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> I killed a giant when I was ten. Then I climbed right into bed with his wife.</speech>
+
+<stageDirection>DAVOS glances at TORMUND, clearly perplexed.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> When she woke up, you know what she did? Suckled me at her teat for three months. Thought I was her baby. That's how I got so strong. Giant's milk.</speech>
+
+<stageDirection>TORMUND raises the horn to his mouth and starts drinking from it whilst gulping noisily. Everyone stares at him as the drink pours out the horn, mostly down his front.</stageDirection>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> Maybe I will have that drink.</speech>
+
+<direction>CUT TO: WINTERFELL - BATTLEMENTS</direction>
+
+<stageDirection>SANDOR “THE HOUND” CLEGANE sits with back against the battlements drinking alone. ARYA walks up to him and he notices her. She walks closer and SANDOR silently offers the drink. ARYA sits down next to SANDOR and takes a swig. They sit silently staring ahead.</stageDirection>
+
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> You never used to shut up. Now you're just sitting there like a mute.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Guess I've changed.</speech>
+
+<stageDirection>She pauses.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> What are you doing up here?</speech>
+
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> What's it look like?</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> No, I mean, what are you doing up here? You joined the Brotherhood. You went beyond the Wall with Jon. You're here now. Why? When was the last time you fought for anyone but yourself?</speech>
+
+<stageDirection>SANDOR turns to her.</stageDirection>
+
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> I fought for you, didn't I?</speech>
+
+<stageDirection>BERIC walks up to the two of them and stops in front of them.</stageDirection>
+
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> Oh, for fuck's sake. May as well be at a bloody wedding.</speech>
+
+<stageDirection>BERIC smiles. He turns to look at ARYA.</stageDirection>
+
+<speech><speaker who="BERIC" house="Dondarrion">BERIC</speaker> My lady. It's good to see you again. I'm sorry we parted the way we did.</speech>
+
+<stageDirection>SANDOR turns to ARYA.</stageDirection>
+
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> Was he on your list?</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> For a little while.</speech>
+
+<speech><speaker who="BERIC" house="Dondarrion">BERIC</speaker> That's all right.</speech>
+
+<stageDirection>BERIC sits down on a barrel opposite the two.</stageDirection>
+
+<speech><speaker who="BERIC" house="Dondarrion">BERIC</speaker> The Lord of Light has brought us together all the same. This is his moment. When light-</speech>
+
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> Thoros isn't here anymore, so I hope you're not about to give a sermon. Because if you are, the Lord of Light's gonna wonder why he brought you back nineteen times just to watch you die when I chuck you over this fucking wall.</speech>
+
+<stageDirection>He points to the wall he’s leaning against. BERIC chuckles and holds his hand out. SANDOR passes him the drink. ARYA stands up and starts walking away from them.</stageDirection>
+
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> Where are you going?</speech>
+
+<stageDirection>ARYA turns around to look at them.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> I'm not spending my final hours with you two miserable old shits.</speech>
+
+<stageDirection>ARYA exits and SANDOR and BERIC sit in silence.</stageDirection>
+
+<direction>CUT TO: WINTERFELL - HALLWAY</direction>
+
+<stageDirection>A bowstring creaks as an arrow is fired. It hits its target next to two other arrows previously shot. The camera cuts to see ARYA holding a large bow in a dimly lit hallway. She lowers it and picks up another arrow. GENDRY watches from a doorway. She fires the arrow and turns as GENDRY walks up to her.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> That for me?</speech>
+
+<stageDirection>GENDRY raises a spear with a dragonglass head. ARYA lays down her bow and takes the spear.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> This'll work.</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Last time you saw me, you wanted me to come to Winterfell. Took the long road, but…</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> What did the Red Woman want with you?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> She wanted my blood for some kind of spell.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Why your blood?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I'm Robert Baratheon's bastard.</speech>
+
+<stageDirection>Arya stops fiddling with her new weapon at this revelation and stares at Gendry.</stageDirection>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I didn't know until she told me. Then she tied me up, stripped me down, put leeches all over me.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Was that your first time?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> No, yeah, I've never had leeches put all over my cock.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Your first time with a woman.</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> What? I-I didn't-I wasn't with her.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Were you with other girls before that in King's Landing?</speech>
+
+<stageDirection>GENDRY scoffs.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Or after?</speech>
+
+<stageDirection>GENDRY stammers indistinctly.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> You don't remember?</speech>
+
+<stageDirection>GENDRY scoffs.</stageDirection>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Yes, I was.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> One? Two? Twenty?</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Well, I didn't keep count.</speech>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Yes, you did.</speech>
+
+<stageDirection>GENDRY sighs.</stageDirection>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Three.</speech>
+
+<stageDirection>ARYA pauses and walks up to him.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> We're probably going to die soon. I want to know what it's like before that happens.</speech>
+
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Arya, I-</speech>
+
+<stageDirection>ARYA inhales sharply as she pulls GENDRY in and starts kissing him. They start undressing themselves and each other whilst still kissing. She pushes GENDRY back onto a pile of bags as she takes off her top. GENDRY, who is still just wearing his pants, notices a couple scars on ARYA’s side.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> I'm not the Red Woman. Take your own bloody pants off.</speech>
+
+<stageDirection>She pulls her own pants off and climbs on top of GENDRY and starts kissing him.</stageDirection>
+
+<direction>CUT TO: WINTERFELL – GREAT HALL</direction>
+
+<stageDirection>The fire is still lit and the people who were in there earlier still sit there. Opposite the fire sits (from left to right) TORMUND, BRIENNE, JAIME, DAVOS, TYRION and PODRICK. They sit in silence before TYRION breaks it.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> It's strange, isn't it? Almost everyone here's fought the Starks at one time or another. And here we are in their castle, ready to defend it. Together.</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> At least we'll die with honor.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I think we might live.</speech>
+
+<stageDirection>DAVOS and PODRICK both start laughing.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I-I do. How many battles have we survived between us? Ser Davos Seaworth. Survivor of both the Blackwater and the Battle of the Bastards.</speech>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> All without a shred of combat ability.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Mm. Ser Jaime Lannister, fabled hero of the Siege of Pyke.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Fabled loser of the Battle of Whispering Wood.</speech>
+
+<stageDirection>JAIME stands up to get himself another drink.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Hear, hear! Ser Brienne of Tarth. Defeated the Hound in-Pardon me, Lady Brienne.</speech>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> She's not a ser? You're not a knight?</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> Women can't be knights.</speech>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> Why not?</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> Tradition.</speech>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> Fuck tradition.</speech>
+
+<speech><speaker who="BRIENNE" house="Tarth">BRIENNE</speaker> I don't even want to be a knight.</speech>
+
+<stageDirection>PODRICK looks at her, slightly confused. BRIENNE ignores him.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> I'm no king. But if I were, I'd knight you ten times over.</speech>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> You don't need a king. Any knight can make another knight.</speech>
+
+<stageDirection>JAIME places his cup on the table where the wine is kept.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> I'll prove it.</speech>
+
+<stageDirection>JAIME unsheathes his sword and stands in the middle of the room and holds his sword out.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Kneel, Lady Brienne.</speech>
+
+<stageDirection>BRIENNE scoffs.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Do you want to be a knight or not? Kneel.</speech>
+
+<stageDirection>BRIENNE looks at PODRICK who nods. She stands up, walks to the middle of the room opposite JAIME and kneels before him. PODRICK and DAVOS both turn in their seats to see and TYRION and TORMUND both stand. JAIME places the sword on her right shoulder.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> In the name of the Warrior, I charge you to be brave.</speech>
+
+<stageDirection>He raises it over her head and places it on her left shoulder.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> In the name of the Father, I charge you to be just.</speech>
+
+<stageDirection>He raises the sword and places it on her right shoulder again.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> In the name of the Mother, I charge you to defend the innocent.</speech>
+
+<stageDirection>He lowers the sword to his side.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Arise, Brienne of Tarth a knight of the Seven Kingdoms.</speech>
+
+<stageDirection>BRIENNE smiles as she stands up and the rest of the room all applaud.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Ser Brienne of Tarth! Knight of the Seven Kingdoms!</speech>
+
+<stageDirection>BRIENNE smiles ecstatically, tears of joy in her eyes.</stageDirection>
+
+<direction>CUT TO: WINTERFELL - BATTLEMENTS</direction>
+
+<stageDirection>SAMWELL is walking down the stairs from the battlements</stageDirection>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> We have all we need to win this war.</speech>
+
+<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> I have trained my men, women and children. I have fought before. I can fight again.</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> Please, listen to me. You're the future of our house.</speech>
+
+<stageDirection>SAMWELL notices the two talking down in the courtyard and starts to walk towards them.</stageDirection>
+
+<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> I don't need you to remind me of that.</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> You'll be safer in the crypt. These things we're fighting-</speech>
+
+<direction>CUT TO: WINTERFELL - COURTYARD</direction>
+
+<stageDirection>We now see JORAH and LYANNA up close.</stageDirection>
+
+<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> I will not hide underground. I pledged to fight for the North, and I will fight.</speech>
+
+<stageDirection>LYANNA turns around to see SAMWELL facing them both.</stageDirection>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Oh, I'm sorry, I didn't mean to-</speech>
+
+<speech><speaker who="LYANNA" house="Mormont">LYANN</speaker> It's all right. We're done here.</speech>
+
+<stageDirection>LYANNA starts to walk off but stops and turns back to JORAH.</stageDirection>
+
+<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> I wish you good fortune, cousin.</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> Thank you, my lady.</speech>
+
+<stageDirection>LYANNA exits and SAMWELL walks closer to JORAH.</stageDirection>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> What have you got there?</speech>
+
+<stageDirection>SAMWELL raises his sword.</stageDirection>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> It's called Heartsbane. It's my family sword.</speech>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> You still have a family.</speech>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Yes. And I'd love to defend them with it. But I can't really hold it upright. Your father, he taught me how to be a man. How to do what's right. This is right. It's Valyrian steel. I'd be honored if you'd take it.</speech>
+
+<stageDirection>He hands JORAH the sword and JORAH removes it from its sheath slightly to examine it.</stageDirection>
+
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> I'll wield it in his memory to guard the realms of men.</speech>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> I'll see you when it's through.</speech>
+
+<stageDirection>SAMWELL walks off but stops several feet away and turns back to JORAH.</stageDirection>
+
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> I hope we win.</speech>
+
+<direction>CUT TO: WINTERFELL – GREAT HALL</direction>
+
+<stageDirection>Everyone sits around the fire still but DAVOS is standing next to where the wine is.</stageDirection>
+
+<speech><speaker who="JAIME" house="Lannister">JAIME</speaker> We'd better get some rest.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> No, let's stay a bit longer.</speech>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> We're out of wine.</speech>
+
+<stageDirection>DAVOS sits back down.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> How about a song? One of you must know one. Ser Davos?</speech>
+
+<speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> You'll pray for a quick death.</speech>
+
+<stageDirection>TYRION chuckles.</stageDirection>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Ser Brienne?</speech>
+
+<stageDirection>BRIENNE shakes her head. TYRION turns to TORMUND who shakes his head too.</stageDirection>
+
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> Mm-mm.</speech>
+
+<speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Mmm.</speech>
+
+<stageDirection>PODRICK starts singing “Jenny of Oldstones”.</stageDirection>
+
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> High in the halls of the kings who are gone, Jenny would dance with her ghosts, the ones she had lost and the ones she had found and the ones who had loved her the most.</speech>
+
+<direction>CUT TO: WINTERFELL – SAMWELL’S QUARTERS</direction>
+
+<stageDirection>As PODRICK continues to sing, SAMWELL and GILLY lay in bed with LITTLE SAM between them.</stageDirection>
+
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> The ones who'd been gone for so very long.</speech>
+
+<direction>CUT TO: WINTERFELL - COURTYARD</direction>
+
+<stageDirection>The camera pans down to show SANSA and THEON sitting opposite each other. PODRICK's singing continues.</stageDirection>
+
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> She couldn't remember their names. They spun her around on the damp old stones.</speech>
+
+<direction>CUT TO: WINTERFELL - HALLWAY</direction>
+
+<stageDirection>The camera pans and we see GENDRY sleeping on the pile of bags and ARYA lays next to him with her eyes open. PODRICK’s singing continues.</stageDirection>
+
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> Spun away all her sorrow and pain. And she never wanted to leave</speech>
+
+<direction>CUT TO: WINTERFELL - COURTYARD</direction>
+
+<stageDirection>The Unsullied start walking out of the courtyard as MISSANDEI and GREY WORM walk together before he stops her, turns to her, and kisses her. He then turns to leave with the Unsullied and MISSANDEI watches as he leaves. PODRICK’s singing continues.</stageDirection>
+
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> Never wanted to leave. Never wanted to leave. Never wanted to leave.</speech>
+
+<direction>CUT TO: WINTERFELL – OUTSIDE FRONT GATE</direction>
+
+<stageDirection>Everyone gathers outside the castle as they prepare for battle. JORAH rides on his horse and gazes at the horizon to see only darkness. PODRICK’s singing continues.</stageDirection>
+
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> Never wanted to leave. Never wanted to leave.</speech>
+
+<direction>INT. WINTERFELL - NIGHT</direction>
+<direction>CUT TO: WINTERFELL - CRYPTS</direction>
+
+<stageDirection>DAENERYS turns a corner as she sees JON staring at a statue of his biological mother, LYANNA STARK. She walks up to him. He glances at her and smiles as she walks closer. She holds his arm as they both look at the statue together.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Who's that?</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> Lyanna Stark.</speech>
+
+<stageDirection>DAENERYS looks troubled.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> My brother, Rhaegar, everyone told me he was decent and kind. He liked to sing. Gave money to poor children. And he raped her.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> He didn't. He loved her.</speech>
+
+<stageDirection>JON turns to face DAENERYS.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> They were married in secret. After Rhaegar fell on the Trident, she had a son. Robert would have murdered the baby if he ever found out, and Lyanna knew it. So the last thing she did, as she bled to death on her birthing bed, was give the boy to her brother, Ned Stark, to raise as his bastard.</speech>
+
+<stageDirection>DAENERYS starts to look at him, slightly concerned.</stageDirection>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> My name. My real name is Aegon Targaryen.</speech>
+
+<stageDirection>DAENERYS exhales sharply as she pulls away.</stageDirection>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> That's impossible.</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> I wish it were.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Who told you this?</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> Bran. He saw it.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> He saw it?</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> And Samwell confirmed it. He read about their marriage at the Citadel without even knowing what it meant.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> A secret no one in the world knew except your brother and your best friend. Doesn't seem strange to you?</speech>
+
+<speech><speaker who="JON" house="Stark">JON</speaker> It's true, Dany. I know it is.</speech>
+
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> If it were true, it would make you the last male heir of House Targaryen. You'd have a claim to the Iron Throne.</speech>
+
+<stageDirection>Suddenly a horn blares and JON turns around.</stageDirection>
+
+<direction>CUT TO: WINTERFELL - BATTLEMENTS</direction>
+
+<stageDirection>JON and DAENERYS walk behind the battlements and stand next to TYRION as the three stare out over the wall.</stageDirection>
+
+<speech><speaker who="MAN" >MAN</speaker> Form up! Get yourselves back!</speech>
+
+<stageDirection>JON nods at DAENERYS and they both quickly exit. TYRION watches but turns his attention back over the wall. The camera pans away.</stageDirection>
+
+<direction>CUT TO: PATH TO WINTERFELL</direction>
+
+<stageDirection>In an icy haze, the mangled legs of a dead horse trot forward before stopping. The camera pans up to show a white walker sitting upon the dead horse and the entire army of white walkers standing in a line upon their horses is slowly revealed. The camera pans around their backs before settling on the faint glow of Winterfell in the distance.</stageDirection>
+</Ep>

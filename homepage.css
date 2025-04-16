@@ -1,0 +1,177 @@
+html {
+    font-family: "Trajan Pro";
+    font-size: larger;
+    margin: 1em 20%;
+    background-color: lightgrey;
+    text-align: center;
+}
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-bottom: 1px solid #e3e3e8;
+
+}
+
+nav {
+    float: left;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 2.2em 2em;
+}
+nav ul li {
+    display: inline;
+    padding: 0 .4em;
+}
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.6em;
+    padding-bottom: 1.3em;
+    transition: .5s color;
+}
+nav ul li a:hover {
+    border-bottom: 3px solid #333;
+}
+#current {
+    color: #ff4629;
+    border-bottom: 3px solid #333;
+}
+#fb:hover {
+    color: #3b5998;
+}
+#twitter:hover {
+    color: #00acee;
+}
+#charspeech-svg {
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: flex-start;
+    overflow: visible;
+}
+span.speaker {
+    color: blue;
+    font: bold;
+}
+span.speaker[house = "Stark"] {
+    color: green;
+    font: bold;
+}
+span.speaker[house = "Targaryen"] {
+    color: red;
+    font: bold;
+}
+span.speaker[house = "Lannister"] {
+    color: purple;
+    font: bold;
+}
+span.speaker[house = "Dondarrion"] {
+    color: #FF6347;
+    font: bold;
+}
+span.speaker[house = "Tollett"] {
+    color: brown;
+    font: bold;
+}
+span.speaker[house = "Giantsbane"] {
+    color: #DEB887;
+    font: bold;
+}
+span.speaker[house = "Umber"] {
+    color: #00008B;
+    font: bold;
+}
+span.speaker[house = "Tarly"] {
+    color: #00FFFF;
+    font: bold;
+}
+span.speaker[house = "Mormont"] {
+    color: #5F9EA0;
+    font: bold;
+}
+span.speaker[house = "Baratheon"] {
+    color: #7FFF00;
+    font: bold;
+}
+span.speaker[house = "Clegane"] {
+    color: #D2691E;
+    font: bold;
+}
+span.speaker[house = "Bolton"] {
+    color: #800000;
+    font: bold;
+}
+span.speaker[house = "Seaworth"] {
+    color: #000080;
+    font: bold;
+}
+span.speaker[house = "Greyjoy"] {
+    color: #A9A9A9;
+    font: bold;
+}
+span.speaker[house = "Stokeworth"] {
+    color: #2E8B57;
+    font: bold;
+}
+span.speaker[house = "Strickland"] {
+    color: #FA8072;
+    font: bold;
+}
+span.speaker[house = "Royce"] {
+    color: #6A5ACD;
+    font: bold;
+}
+span.speaker[house = "Arryn"] {
+    color: #008080;
+    font: bold;
+}
+span.speaker[house = "Tully"] {
+    color: pink;
+    font: bold;
+}
+span.speaker[house = "Tarth"] {
+    color: lime;
+    font: bold;
+}
+span.speaker[house = "Craster"] {
+    color: olive;
+    font: bold;
+}
+span.speaker[house = "Payne"] {
+    color: yellow;
+    font: bold;
+}
+div.svgPage {
+    display: flex;
+    flex-direction: row;
+    position: static;
+    overflow: visible;
+}
+div.svg {
+    width: 50%;
+    height: auto;
+
+}
+p.chartDesc {
+    position: relative;
+    padding-top: 0;
+}
+img {
+    width: 80%;
+    height: auto;
+
+}
+img.classLicense{
+    width: 10%;
+    height: 10%;
+}
+img.classBanners {
+    width: 60%;
+    height: auto;
+}

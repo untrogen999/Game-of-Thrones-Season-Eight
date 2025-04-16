@@ -1,0 +1,66 @@
+Episode 3 and 4:
+Northman
+\nNORTHMAN: (.+)  <speaker who="Northman">NORTHMAN:</speaker> \1
+\nNorthman 1
+\nNORTHMAN 1: (.+)    <speaker who="Northman_1">NORTHMAN 1:</speaker> \1
+\nNorthman 2
+\nNORTHMAN 2: (.+)   <speaker who="Northman_2">NORTHMAN 2:</speaker> \1 
+Soldier 
+\nSOLDIER: (.+)   <speaker who="Soldier">SOLDIER:</speaker> \1
+*Same with all soldiers
+Lyanna Mormont
+\nLYANNA: (.+)  <speaker who="Lyanna _Mormont">LYANNA MORMONT:</speaker> \1
+Edd
+\nEDD: (.+) <speaker who="Edd">EDD:</speaker> \1
+Melisandre
+\nMELISANDRE: (.+)  <speaker who="Melisandre">MELISANDRE:</speaker> \1
+Jorah Mormont
+\nJORAH: (.+)   <speaker who="Jorah_Mormont">JORAH MORMONT:</speaker> \1
+Grey Worm
+\nGREY WORM: (.+)   <speaker who="Grey_Worm">GREY WORM:</speaker> \1
+Davos Seaworth
+\nDAVOS: (.+)   <speaker who="Davos_Seaworth">DAVOS SEAWORTH:</speaker> \1
+Jon Snow
+\nJON: (.+) <speaker who="Jon_Snow">JON SNOW:</speaker> \1
+Daenerys Targaryen
+\nDAENERYS: (.+)    <speaker who="Daenerys_Targaryen">DAENERYS TARGARYEN:</speaker> \1
+Tormund Giantsbane
+\nTORMUND: (.+) <speaker who="Tormund_Giantsbane">TORMUND GIANTSBANE:</speaker> \1
+Brienne Tarth
+\nBRIENNE: (.+) <speaker who="Brienne_Tarth">BRIENNE TARTH:</speaker> \1
+Arya Stark
+\nARYA: (.+)    <speaker who="Arya_Stark">ARYA STARK:</speaker> \1
+Sansa Stark
+\nSANSA: (.+)   <speaker who="Sansa_Stark">SANSA STARK:</speaker> \1
+Samwell Tarly
+\nSAMWELL: (.+) <speaker who="Samwell_Tarly">SAMWELL TARLY:</speaker> \1
+Jaime Lannister
+\nJAIME: (.+)   <speaker who="Jaime_Lannister">JAIME LANNISTER:</speaker> \1
+Sandor Clegane (The Hound)
+\nHOUND: (.+)   <speaker who="Sandor_Clegane">THE HOUND:</speaker> \1
+Beric Dondarrion
+\nBERIC: (.+)   <speaker who="Beric_Dondarrion">BERIC DONDARRION:</speaker> \1
+Theon Greyjoy
+\nTHEON: (.+)   <speaker who="Theon_Greyjoy">THEON GREYJOY:</speaker> \1
+Bran Stark
+\nBRAN: (.+)    <speaker who="Bran_Stark">BRAN STARK:</speaker> \1
+Varys
+\nVARYS: (.+)   <speaker who="Varys">VARYS:</speaker> \1
+Tyrion Lannister
+\nTYRION: (.+)  <speaker who="Tyrion_Lannister">TYRION LANNISTER:</speaker> \1
+Missandei
+\nMISSANDEI: (.+)   <speaker who="Missandei">MISSANDEI:</speaker> \1
+Gendry
+\nGENDRY: (.+)  <speaker who="Gendry">GENDRY:</speaker> \1
+Qybrun
+\nQYBURN: (.+)  <speaker who="Qyburn">QYBURN:</speaker> \1
+Cersei Lannister
+\nCERSEI: (.+)  <speaker who="Cersei_Lannister">CERSEI LANNISTER:</speaker> \1
+Euron Greyjoy
+\nEURON: (.+)   <speaker who="Euron_Greyjoy">EURON GREYJOY:</speaker> \1
+Gilly
+\nGILLY: (.+)   <speaker who="Gilly">GILLY:</speaker> \1
+Podrick
+\nPODRICK: (.+) <speaker who="Podrick">PODRICK:</speaker> \1
+Bronn
+\nBRONN: (.+)   <speaker who="Bronn">BRONN:</speaker> \1

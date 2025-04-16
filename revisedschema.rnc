@@ -1,0 +1,12 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+
+start= Ep1
+Ep1= element Ep1 {mixed{stageDirection| direction| speech| speaker}+}
+stageDirection= element stageDirection {char?, text+}
+char = element char{who, house?, text}
+direction= element direction {text+}
+speech= element speech {speaker, text+}
+speaker= element speaker {who , house?, text}
+who= attribute who {"JON"|"SANSA"|"ARYA"|"BRAN"|"CERSEI"|"TYRION"|"THEON"|"YARA"|"EURON"|"JORAH"|"DAVOS"|"SAMWELL"|"VARYS"|"UMBER"|"BRONN"|"EDD"|"DAENERYS"|"MAESTER WOLKAN"|"WOLKAN"|"LYANNA"|"MAN"|"GENDRY"|"MAN 1"|"MAN 2 (O.S.)"|"MAN 3"|"MAN 4"|"MAN 5"|"MAN 6"|"MAN 7"|"MAN 8"|"GENDRY (O.S.)"|"ROYCE"|"QYBURN"|"HARRY"|"DIRAH"|"CRAYAH"|"MAREI"|"QYBURN (O.S.)"|"YARA (O.S.)"|"DOTHRAKI MAN #1"|"SANDOR"|"TORMUND" | "BERIC" |"NORTHMAN"|"NORTHMAN 1"|"NORTHMAN 2"|"SOLDIER"|"SOLDIER 1"|"SOLDIER 2"|"SOLDIER 3"|"SOLDIER 4"|"SOLDIER 5"|"SOLDIER 6"|"SOLDIER 7"|"MELISANDRE"|"GREY WORM"|"BRIENNE"|"SAM"|"WOMAN"|"WOMAN 1"|"WOMAN 2"|"JAIME"|"THE HOUND"|"MISSANDEI"|"BOTH"|"GILLY"|"TEELA"|"PODRICK"|"MARTHA"|"GUARD 1"|"GUARD 2"|"GUARD 3"|"UNSULLIED"|"FATHER"|"NORA"|"VICKY"|"LANNISTER SOLDIER"|"ROBIN" | "EDMURE" | "YOHN ROYCE" | "MAESTER WOLKAN" | "UNSULLIED CAPTAIN" | "VALE LORD" | "IRONBORN LORD" | "DORNISH PRINCE" | "RIVERLANDS LORD" | "ALL"}
+house= attribute house {"Stark"| "Lannister"| "Dondarrion"| "Tollett"|"Giantsbane"|"Umber"|"Tarley"|"Targaryen"|"Mormont"|"Baratheon"|"Clegane"|"Seaworth"|"Bolton"|"Greyjoy"|"Stokeworth"|"Strickland"|"Tarth"|"Craster"|"Payne"|"Royce" | "Arryn" | "Tully"}
